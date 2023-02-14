@@ -12,3 +12,7 @@
 - React.js
 - React Native
 - CSS 
+
+## Set up
+- Clone the repository.
+- On your computer terminal, inside the src folder, run the command yarn start.
